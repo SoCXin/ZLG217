@@ -1,26 +1,12 @@
-﻿# [Candence](https://github.com/mcuyun/Candence) 
+﻿# [Cadence](https://github.com/sochub/Cadence)
 
-Candence开发资源
+[![sites](SoC/qitas.png)](http://www.qitas.cn)
 
-[![sites](mcuyun/mcuyun.png)](http://www.mcuyun.com)
-
-#### 更多EDA ：[EDALib](https://github.com/mcuyun/EDALib) 
-#### 更多关于：[mcuyun](https://github.com/mcuyun/whyme)可访问 www.mcuyun.com
-
----
-
-## 简介
-
-通过收集和整理Candence各种常用器件的库文件和设计文件，提升开发效率，避免硬件开发的重复劳动
-
----
-
-## 组成
+#### 硬件开发工具：[EDA](https://github.com/sochub/EDA)
+#### 软件开发工具：[SDK](https://github.com/sochub/SDK)
+### [Cadence简介](https://github.com/sochub/Cadence/wiki)
 
 
 
----
+###  [SoC资源平台](https://github.com/sochub)
 
-###  www.mcuyun.com  
-###  qitas@qitas.cn
-###  2018-11-30
