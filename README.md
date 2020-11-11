@@ -6,11 +6,18 @@
 #### [Core](https://github.com/SoCXin/Cortex)：[Cortex M0](https://github.com/SoCXin/CM0)
 #### [Level](https://github.com/SoCXin/Level)：96 MHz  * 1.25 DMIPS/MHz
 
-[ZLG217](https://github.com/SoCXin/ZLG217) 128KB Flash，20KB SRAM，UART/SPI/I2C 配置是3/2/2，多达7个定时器，2个12位的DAC，7通道DMA控制器，多达51个快速IO通道，采用LQFP64体积封装。
+[ZLG217](https://github.com/SoCXin/ZLG217) 128KB Flash，20KB SRAM，UART/SPI/I2C配置3/2/2，7个定时器，2个12位的DAC，7通道DMA控制器，51个快速IO通道，LQFP64封装
 
 #### 核心功能
 
 * 12 bit DAC
+* USB
+
+### [资源收录](https://github.com/SoCXin/ZLG217)
+
+* [资源](src/)
+* [文档](docs/)
+* [官方开源工程](https://github.com/zlgopen/ametal)
 
 ### [选型建议](https://github.com/SoCXin)
 
