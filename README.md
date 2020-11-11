@@ -1,16 +1,19 @@
-﻿# [Cadence](https://github.com/sochub/Cadence)
+﻿# [ZLG217](https://github.com/SoCXin/ZLG217)
 
-[![sites](SoC/qitas.png)](http://www.qitas.cn)
+[![sites](http://182.61.61.133/link/resources/SoC.png)](http://www.SoC.Xin)
 
-#### 硬件开发工具：[EDA](https://github.com/sochub/EDA)
-#### 软件开发工具：[SDK](https://github.com/sochub/SDK)
-### [Cadence简介](https://github.com/sochub/Cadence/wiki)
+#### [Vendor](https://github.com/SoCXin/Vendor)：[ZLG](https://www.zlgmcu.com)
+#### [Core](https://github.com/SoCXin/Cortex)：[Cortex M0](https://github.com/SoCXin/CM0)
+#### [Level](https://github.com/SoCXin/Level)：96 MHz  * 1.25 DMIPS/MHz
 
-[Cadence](https://www.cadence.com)由SDA Systems和ECAD两家公司于1988年兼并而成,总部位于美国加州圣何塞（San Jose），是全球最大的电子设计技术(Electronic Design Technologies)、程序方案服务和设计服务供应商，是全球IC产业的重要组成部分。
+[ZLG217](https://github.com/SoCXin/ZLG217) 128KB Flash，20KB SRAM，UART/SPI/I2C 配置是3/2/2，多达7个定时器，2个12位的DAC，7通道DMA控制器，多达51个快速IO通道，采用LQFP64体积封装。
 
-大多数的工程师都只是认识到Cadence产品的冰山一角，因为其主要的服务对象并非广泛的消费群体，主要的竞争对手Synopsys在行业优势上互补，Cadence在仿真电路图设计，自动布局布线，版图设计及验证等方面却有着绝对的优势。
+#### 核心功能
 
-Cadence自己的编程语言skill拥有其编译器，提供编程接口和与C语言的接口等，提高相应产品的扩展性能。
+* 12 bit DAC
 
-###  [SoC资源平台](https://github.com/sochub)
+### [选型建议](https://github.com/SoCXin)
 
+[ZLG217](https://github.com/SoCXin/ZLG217) 和 [ZLG237](https://github.com/SoCXin/ZLG237)的主要区别在于DAC和ADC，后者拥有CAN接口无USB
+
+###  [SoC芯平台](http://www.SoC.Xin)
